@@ -1,6 +1,7 @@
 # ggjanus
 Personal package with extra ggplot themes
 
+NB: not yet operational
 
 ## Theme overview
 
