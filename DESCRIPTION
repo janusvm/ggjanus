@@ -12,4 +12,5 @@ Imports:
     ggplot2,
     showtext,
     Cairo,
+    RColorBrewer,
     testthat
